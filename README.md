@@ -10,12 +10,12 @@ The two major types of programmable logic devices are field programmable gate ar
     • Short circuit protection
  ## Peripherals
 * Liquid crystal display
-DC motor
-Stepper motor
-Seven Segment
-Decoder
-Encoder
-Multiplexer and
-Comparator
-Flip Flop
-Sequence Detector
+* DC motor
+* Stepper motor
+* Seven Segment
+* Decoder
+* Encoder
+* Multiplexer and
+* Comparator
+* Flip Flop
+* Sequence Detector
