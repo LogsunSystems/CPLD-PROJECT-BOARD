@@ -8,3 +8,14 @@ The two major types of programmable logic devices are field programmable gate ar
     • 4*4 keyboard matrix
     • 16*2 character LCD display
     • Short circuit protection
+ ## Peripherals
+* Liquid crystal display
+DC motor
+Stepper motor
+Seven Segment
+Decoder
+Encoder
+Multiplexer and
+Comparator
+Flip Flop
+Sequence Detector
